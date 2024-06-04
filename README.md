@@ -1,7 +1,6 @@
 ### Hi there 👋
 <p align="center">
  </p>
-
 <p align = "center">
  <p><img align="center" src="https://komarev.com/ghpvc/?username=vaishnavigujjari&label=Profile%20views&color=0e75b6&style=flat" alt="Test" /></p>
  <p>
@@ -12,6 +11,3 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaishnavigujjari&theme=default"/>
 </p>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaishnavigujjari&theme=dark&card_width=500&card_height=200)](https://git.io/streak-stats)
-
